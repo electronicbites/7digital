@@ -127,5 +127,4 @@ module Sevendigital
   end
 
 end
-
 end
